@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sid-more
 - 👀 I’m interested in Coding Designing and automation
-- 🌱 I’m currently learning MCA 
+- 🌱 I’m currently pursuing MCA 
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me siddheshmore42@gmail.com
 
