@@ -3,7 +3,6 @@
 - 🌱 BScIT,MCA 
 - 💞️ I’m looking to collaborate on AWS,Dot-Net 6
 - 📫 How to reach me siddheshmore42@gmail.com
--     ex Java Developer.
 -   Dotnet Engineer - VB,C#
 
 <!---
