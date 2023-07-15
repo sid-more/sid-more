@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @sid-more
 - 👀 I’m interested in Coding Designing and automation
-- 🌱 I’m currently pursuing MCA 
-- 💞️ I’m looking to collaborate on Data Science
+- 🌱 BScIT,MCA 
+- 💞️ I’m looking to collaborate on AWS,Dot-Net 6
 - 📫 How to reach me siddheshmore42@gmail.com
--     Java Developer.
+-     ex Java Developer.
+-   Dotnet Engineer - VB,C#
 
 <!---
 sid-more/sid-more is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
