@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sid-more
 - 👀 I’m interested in Coding Designing and automation
 - 🌱 BScIT,MCA 
-- 💞️ I’m looking to collaborate on AWS,Dot-Net 6
+- 💞️ I’m looking to collaborate on **AWS** | **Dot-Net 6,7 & 8**
 - 📫 How to reach me siddheshmore42@gmail.com
 -   Dotnet Engineer - VB,C#
 
