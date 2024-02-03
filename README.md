@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sid-more
-- 👀 I’m interested in Coding Designing and automation
+- 👀 I’m interested in Coding Designing and Automation
 - 🌱 BScIT,MCA 
 - 💞️ I’m looking to collaborate on **AWS** | **Dot-Net 6,7 & 8**
 - 📫 How to reach me siddheshmore42@gmail.com
--   Dotnet Engineer - VB,C#
+- 👾 Dotnet Engineer - VB,C#
 
 <!---
 sid-more/sid-more is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
